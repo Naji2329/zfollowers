@@ -1,0 +1,11 @@
+body{direction: ltr;}
+
+@media (max-width: 992px){
+.d-flex.flex-column.flex-row-fluid.wrapper {
+    padding-top: 100px;
+}
+}
+.bold{font-size: 17px;}
+.btn-icon{margin: 5px;}
+.img-small{width: 50px;}
+.card-body{overflow: auto;}
